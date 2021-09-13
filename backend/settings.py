@@ -58,7 +58,7 @@ MIDDLEWARE = [
     # 'corsheaders.middleware.CorsMiddleware',
 
 ]
-CORS_ALLOWED_ORIGINS = ['http://localhost:3000']
+CORS_ALLOWED_ORIGINS = ['https://signin-131.netlify.app']
 CORS_ALLOW_METHODS = [
     'DELETE',
     'GET',
